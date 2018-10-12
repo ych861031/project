@@ -82,6 +82,10 @@ public class MainActivity extends AppCompatActivity {
             }
         };
 
+//        buildingGPS b = new buildingGPS();
+//        b.getGps_list();
+//        Toast.makeText(MainActivity.this,b.getBuilding(0),Toast.LENGTH_SHORT).show();
+
     }
 
 
